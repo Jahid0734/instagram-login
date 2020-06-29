@@ -1,0 +1,54 @@
+body{
+    background: #fafafa;
+}
+section{
+    margin-top: 30px;
+}
+.input-area{
+    margin-left: 37px;
+    margin-top: 53px;
+    width: 450px;
+    height: 390px;
+    background: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 9px -3px #c7b6b6;
+}
+.input-box input{
+    width: 320px;
+    padding: 6px;
+    margin: 10px;
+    outline-color: #007bff;
+}
+.input-box  a{
+    width: 320px;
+
+}
+.all-data{
+    padding-top: 72px;
+}
+.all-data h1{
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+.others-option{
+    list-style: none;
+    margin-top: 8px;
+}
+.others-option li{
+    line-height: 50px;
+}
+.others-option a{
+    text-decoration: none;
+}
+.create{
+    margin-left: 37px;
+    margin-top: 70px;
+    width: 450px;
+    background: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 9px -3px #c7b6b6;
+
+}
+.create p{
+    padding: 25px;
+}
